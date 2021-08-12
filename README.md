@@ -12,7 +12,7 @@
                                                            
  ```                                                          
 ### Reddit
-[u/TechGuy_OnTGB](reddit.com/u/TechGuy_OnTGB)
+[u/TechGuy_OnTGB](https://www.reddit.com/u/TechGuy_OnTGB)
 
 ### Discord
 Ty3r0x#4174
