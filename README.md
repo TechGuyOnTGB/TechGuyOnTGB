@@ -34,7 +34,7 @@
 ### Discord
 Ty3r0x#4174
 
-* Ownerof TBC.CH
+* Owner of [Chaox](https://chaox.ro)
 * Sucks at writing code
 * Won't find me very active here
 
