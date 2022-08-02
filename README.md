@@ -40,7 +40,7 @@ I am currently in the process of learning programming. I am fluent in GNU/Linux 
 ty3r0x @ libera.chat
 
 ### E-mail
-[ty3r0x[at)disroot[dot)org](mailto:ty3r0x@disroot.org)
+[ty3r0x-at-disroot-dot-org](mailto:ty3r0x@disroot.org)
 
 ### Reddit
 [u/TechGuy_OnTGB](https://www.reddit.com/u/TechGuy_OnTGB)
