@@ -33,20 +33,15 @@ I am currently in the process of learning programming. I am fluent in GNU/Linux 
 
 # 📫 |Contact info
 
-### XMPP
-[ty3r0x@chaox.ro](xmpp:ty3r0x@chaox.ro)
+| Protocol / Website | Contact link |
+|--------------------|--------------|
+| XMPP               |[ty3r0x@chaox.ro](xmpp:ty3r0x@chaox.ro)
+| IRC                |ty3r0x @ libera.chat
+| E-mail             |[ty3r0x-at-disroot-dot-org](mailto:ty3r0x@disroot.org)
+| Reddit (inactive)  |[u/TechGuy_OnTGB](https://www.reddit.com/u/TechGuy_OnTGB)
+| Discord (eww)      |Ty3r0x#4174
+| Matrix             |[ty3r0x@melroy.org](matrix:ty3r0x@melroy.org)
 
-### IRC
-ty3r0x @ libera.chat
-
-### E-mail
-[ty3r0x-at-disroot-dot-org](mailto:ty3r0x@disroot.org)
-
-### Reddit
-[u/TechGuy_OnTGB](https://www.reddit.com/u/TechGuy_OnTGB)
-
-### Discord
-Ty3r0x#4174
 
                  
 <!---
