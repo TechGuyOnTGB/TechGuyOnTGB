@@ -43,7 +43,14 @@ I am currently in the process of learning programming. I am fluent in GNU/Linux 
 | Matrix             |[ty3r0x@melroy.org](matrix:ty3r0x@melroy.org)
 
 
-                 
+# 👨🏻‍🎓 | Currently learning
+
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/-Perl-yellow?style=for-the-badge&logo=perl&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!---
 TechGuyOnTGB/TechGuyOnTGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
