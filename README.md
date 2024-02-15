@@ -14,7 +14,7 @@
   ....,;cc:::;::;;,..       .';;::;;:clolllc;...           :        :      : : :    :   : :   : : :  :    :   ::
    ..;cl:,':lldol:::'.'.''.';:odolccc::lkl;'..   
     ...':::c;::dooc;,,c;c;:;:l:lxkkxxkxxoc,..                                  Follow The Eye!
-     ...,',;:cddxl;',::;c;c;,o:::dxxxolcl:'.                                                                                                                                 
+     ...,',;:cddxl;',::;c;c;,o:::dxxxolcl:'. 
 ```                                                                  
 # 🧑‍💻 | About me
 I am currently in the process of learning programming. I am fluent in GNU/Linux and BSD usage. I am also learning networking, and have a mild interest in electronics.
