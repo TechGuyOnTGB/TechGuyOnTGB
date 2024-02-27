@@ -17,9 +17,13 @@
      ...,',;:cddxl;',::;c;c;,o:::dxxxolcl:'. 
 ```                                                                  
 # 🧑‍💻 | About me
-I am currently in the process of learning programming. I am fluent in GNU/Linux and BSD usage. I am also learning networking, and have a mild interest in electronics.
+I would describe myself as an avid bedroom tinkerer. I love poking around with my devices, understanding them at a deeper level, modifying them and using for purposes not intended by their creators. I have invested an ungodly amount of time in this field :).
+
+Ever since I was little, I loved tweaking and changing parts of my devices. Ranging from simple things such as helping set up a new printer to more ambitious ones like exploiting my game console’s operating system to inject custom functionality. I always find a project I do want to invest a lot of time researching, implementing it and share it to other people.
 
 # 📫 |Contact info
+
+<img align="right" width="450" height="300" src="https://github-readme-stats.vercel.app/api?username=Ty3r0X&show_icons=true&theme=merko"/>
 
 | Protocol / Website | Contact link |
 |--------------------|--------------|
@@ -35,7 +39,10 @@ I am currently in the process of learning programming. I am fluent in GNU/Linux 
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <!---
 TechGuyOnTGB/TechGuyOnTGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
